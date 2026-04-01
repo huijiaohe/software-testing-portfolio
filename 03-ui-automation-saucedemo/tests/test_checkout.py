@@ -1,7 +1,5 @@
 import pytest
 from selenium.webdriver.common.by import By
-
-# ✅ 放这里（和其他 import 一起）
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 class TestCheckout:
