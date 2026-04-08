@@ -1,0 +1,1201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1775138445855,182,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,270,1,1,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,182,0,140
+1775138446038,42,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,155,1,1,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138446080,321,搜索商品,200,OK,Thread Group 1-1,text,true,,39820,160,2,2,https://demo.opencart.cn/index.php?route=product/search&search=mac,319,0,153
+1775138446357,94,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,270,2,2,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,94,0,48
+1775138446452,43,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,155,2,2,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138446401,114,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,2,2,https://demo.opencart.cn/index.php?route=account/register,114,0,0
+1775138446516,112,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,2,2,https://demo.opencart.cn/index.php?route=product/special,112,0,0
+1775138446629,128,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,2,2,https://demo.opencart.cn/index.php?route=product/manufacturer,128,0,0
+1775138446496,264,搜索商品,200,OK,Thread Group 1-2,text,true,,39820,160,2,2,https://demo.opencart.cn/index.php?route=product/search&search=mac,262,0,96
+1775138446758,42,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,292,2,2,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138446800,46,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,177,2,2,http://demo.opencart.cn/index.php?route=product/manufacturer,46,0,0
+1775138446760,116,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,3,3,https://demo.opencart.cn/index.php?route=account/register,116,0,0
+1775138446870,80,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,270,3,3,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,80,0,44
+1775138446950,40,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,155,3,3,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138446846,151,搜索商品,200,OK,Thread Group 1-1,text,true,,39716,219,3,3,https://demo.opencart.cn/index.php?route=product/search&search=mac,150,0,0
+1775138446876,140,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,3,3,https://demo.opencart.cn/index.php?route=product/special,140,0,0
+1775138446997,126,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,3,3,https://demo.opencart.cn/index.php?route=account/register,125,0,0
+1775138447017,141,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,3,3,https://demo.opencart.cn/index.php?route=product/manufacturer,141,0,0
+1775138447165,59,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,292,3,3,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,59,0,0
+1775138447123,133,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,3,3,https://demo.opencart.cn/index.php?route=product/special,132,0,0
+1775138447224,45,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,177,3,3,http://demo.opencart.cn/index.php?route=product/manufacturer,45,0,0
+1775138446990,292,搜索商品,200,OK,Thread Group 1-3,text,true,,39820,160,3,3,https://demo.opencart.cn/index.php?route=product/search&search=mac,291,0,96
+1775138447256,129,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,4,4,https://demo.opencart.cn/index.php?route=product/manufacturer,129,0,0
+1775138447386,41,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,292,4,4,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138447356,86,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,270,4,4,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,86,0,45
+1775138447282,165,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,4,4,https://demo.opencart.cn/index.php?route=account/register,164,0,0
+1775138447269,186,搜索商品,200,OK,Thread Group 1-2,text,true,,39716,219,4,4,https://demo.opencart.cn/index.php?route=product/search&search=mac,185,0,0
+1775138447427,37,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,177,4,4,http://demo.opencart.cn/index.php?route=product/manufacturer,37,0,0
+1775138447442,38,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,155,4,4,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138447447,142,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,4,4,https://demo.opencart.cn/index.php?route=product/special,142,0,0
+1775138447455,172,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,4,4,https://demo.opencart.cn/index.php?route=account/register,172,0,0
+1775138447464,233,搜索商品,200,OK,Thread Group 1-1,text,true,,39716,219,4,4,https://demo.opencart.cn/index.php?route=product/search&search=mac,232,0,0
+1775138447481,307,搜索商品,200,OK,Thread Group 1-4,text,true,,39820,160,4,4,https://demo.opencart.cn/index.php?route=product/search&search=mac,303,0,94
+1775138447589,201,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,4,4,https://demo.opencart.cn/index.php?route=product/manufacturer,201,0,0
+1775138447628,198,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,4,4,https://demo.opencart.cn/index.php?route=product/special,197,0,0
+1775138447790,38,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,292,4,4,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138447697,154,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,4,4,https://demo.opencart.cn/index.php?route=account/register,154,0,0
+1775138447829,41,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,177,5,5,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138447788,149,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,5,5,https://demo.opencart.cn/index.php?route=account/register,149,0,0
+1775138447856,87,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,270,5,5,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,87,0,45
+1775138447943,40,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,155,5,5,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138447827,168,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,5,5,https://demo.opencart.cn/index.php?route=product/manufacturer,168,0,0
+1775138447852,179,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,5,5,https://demo.opencart.cn/index.php?route=product/special,177,0,0
+1775138447996,50,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,292,5,5,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,50,0,0
+1775138447938,154,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,5,5,https://demo.opencart.cn/index.php?route=product/special,149,0,0
+1775138448046,46,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,177,5,5,http://demo.opencart.cn/index.php?route=product/manufacturer,46,0,0
+1775138447870,223,搜索商品,200,OK,Thread Group 1-3,text,true,,39716,219,5,5,https://demo.opencart.cn/index.php?route=product/search&search=mac,221,0,0
+1775138448031,165,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,5,5,https://demo.opencart.cn/index.php?route=product/manufacturer,164,0,0
+1775138448196,36,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,292,5,5,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,36,0,0
+1775138448232,38,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,177,5,5,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138447984,321,搜索商品,200,OK,Thread Group 1-5,text,true,,39820,160,5,5,https://demo.opencart.cn/index.php?route=product/search&search=mac,318,0,101
+1775138448093,238,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,5,5,https://demo.opencart.cn/index.php?route=account/register,238,0,0
+1775138448092,241,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,5,5,https://demo.opencart.cn/index.php?route=product/manufacturer,241,0,0
+1775138448093,250,搜索商品,200,OK,Thread Group 1-2,text,true,,39716,219,5,5,https://demo.opencart.cn/index.php?route=product/search&search=mac,250,0,0
+1775138448333,41,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,292,6,6,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138448374,46,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,177,6,6,http://demo.opencart.cn/index.php?route=product/manufacturer,46,0,0
+1775138448270,174,搜索商品,200,OK,Thread Group 1-1,text,true,,39716,219,6,6,https://demo.opencart.cn/index.php?route=product/search&search=mac,174,0,0
+1775138448356,88,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,270,6,6,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,88,0,43
+1775138448444,40,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,155,6,6,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138448343,163,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,6,6,https://demo.opencart.cn/index.php?route=account/register,163,0,0
+1775138448306,275,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,6,6,https://demo.opencart.cn/index.php?route=account/register,274,0,0
+1775138448333,262,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,6,6,https://demo.opencart.cn/index.php?route=product/special,261,0,0
+1775138448444,187,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,6,6,https://demo.opencart.cn/index.php?route=account/register,186,0,0
+1775138448507,225,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,6,6,https://demo.opencart.cn/index.php?route=product/special,224,0,0
+1775138448420,342,搜索商品,200,OK,Thread Group 1-4,text,true,,39716,219,6,6,https://demo.opencart.cn/index.php?route=product/search&search=mac,341,0,0
+1775138448596,203,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,6,6,https://demo.opencart.cn/index.php?route=product/manufacturer,202,0,0
+1775138448799,37,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,292,6,6,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,37,0,0
+1775138448837,35,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,177,7,7,http://demo.opencart.cn/index.php?route=product/manufacturer,35,0,0
+1775138448581,295,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,7,7,https://demo.opencart.cn/index.php?route=product/special,294,0,0
+1775138448632,282,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,7,7,https://demo.opencart.cn/index.php?route=product/special,282,0,0
+1775138448861,92,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,270,7,7,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,92,0,48
+1775138448485,500,搜索商品,200,OK,Thread Group 1-6,text,true,,39820,160,7,7,https://demo.opencart.cn/index.php?route=product/search&search=mac,498,0,92
+1775138448953,42,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,155,7,7,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138448763,251,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,7,7,https://demo.opencart.cn/index.php?route=account/register,250,0,0
+1775138448732,326,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,7,7,https://demo.opencart.cn/index.php?route=product/manufacturer,290,0,0
+1775138448915,154,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,7,7,https://demo.opencart.cn/index.php?route=product/manufacturer,154,0,0
+1775138449058,41,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,292,7,7,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138449069,38,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,292,7,7,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138448873,266,搜索商品,200,OK,Thread Group 1-3,text,true,,39716,219,7,7,https://demo.opencart.cn/index.php?route=product/search&search=mac,266,0,0
+1775138449099,41,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,177,7,7,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138449108,36,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,177,7,7,http://demo.opencart.cn/index.php?route=product/manufacturer,36,0,0
+1775138448876,301,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,7,7,https://demo.opencart.cn/index.php?route=product/manufacturer,301,0,0
+1775138449014,198,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,7,7,https://demo.opencart.cn/index.php?route=product/special,197,0,0
+1775138449178,46,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,292,7,7,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,46,0,0
+1775138449225,39,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,177,7,7,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138448985,319,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,7,7,https://demo.opencart.cn/index.php?route=account/register,319,0,0
+1775138449357,87,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,270,8,8,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,86,0,45
+1775138449140,318,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,8,8,https://demo.opencart.cn/index.php?route=account/register,315,0,0
+1775138449145,316,搜索商品,200,OK,Thread Group 1-1,text,true,,39716,219,8,8,https://demo.opencart.cn/index.php?route=product/search&search=mac,313,0,0
+1775138449444,41,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,155,8,8,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138449141,359,搜索商品,200,OK,Thread Group 1-2,text,true,,39716,219,8,8,https://demo.opencart.cn/index.php?route=product/search&search=mac,320,0,0
+1775138448996,536,搜索商品,200,OK,Thread Group 1-7,text,true,,39820,160,8,8,https://demo.opencart.cn/index.php?route=product/search&search=mac,535,0,98
+1775138449265,274,搜索商品,200,OK,Thread Group 1-5,text,true,,39716,219,8,8,https://demo.opencart.cn/index.php?route=product/search&search=mac,273,0,0
+1775138449213,344,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,8,8,https://demo.opencart.cn/index.php?route=product/manufacturer,344,0,0
+1775138449305,262,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,8,8,https://demo.opencart.cn/index.php?route=product/special,260,0,0
+1775138449557,41,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,292,8,8,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138449598,39,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,177,8,8,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138449458,238,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,8,8,https://demo.opencart.cn/index.php?route=product/special,238,0,0
+1775138449500,363,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,9,9,https://demo.opencart.cn/index.php?route=account/register,363,0,0
+1775138449539,325,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,9,9,https://demo.opencart.cn/index.php?route=account/register,325,0,0
+1775138449461,441,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,9,9,https://demo.opencart.cn/index.php?route=account/register,441,0,0
+1775138449855,92,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,270,9,9,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,92,0,50
+1775138449638,319,搜索商品,200,OK,Thread Group 1-4,text,true,,39716,219,9,9,https://demo.opencart.cn/index.php?route=product/search&search=mac,317,0,0
+1775138449532,427,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,9,9,https://demo.opencart.cn/index.php?route=account/register,427,0,0
+1775138449487,502,搜索商品,200,OK,Thread Group 1-8,text,true,,39820,160,9,9,https://demo.opencart.cn/index.php?route=product/search&search=mac,501,0,94
+1775138449947,45,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,155,9,9,http://demo.opencart.cn/index.php?route=product/manufacturer,45,0,0
+1775138449567,430,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,9,9,https://demo.opencart.cn/index.php?route=product/manufacturer,428,0,0
+1775138449997,37,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,292,9,9,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,37,0,0
+1775138449696,345,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,9,9,https://demo.opencart.cn/index.php?route=product/manufacturer,345,0,0
+1775138450035,38,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,177,9,9,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138450041,37,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,292,9,9,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,37,0,0
+1775138450079,39,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,177,9,9,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138449864,304,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,9,9,https://demo.opencart.cn/index.php?route=product/special,304,0,0
+1775138449903,333,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,9,9,https://demo.opencart.cn/index.php?route=product/special,333,0,0
+1775138449957,331,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,9,9,https://demo.opencart.cn/index.php?route=account/register,331,0,0
+1775138449864,443,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,9,9,https://demo.opencart.cn/index.php?route=product/special,441,0,0
+1775138449960,366,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,9,9,https://demo.opencart.cn/index.php?route=product/special,364,0,0
+1775138449989,381,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,10,10,https://demo.opencart.cn/index.php?route=account/register,381,0,0
+1775138450354,91,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,270,10,10,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,91,0,50
+1775138450446,43,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,155,10,10,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138450074,492,搜索商品,200,OK,Thread Group 1-6,text,true,,39716,219,10,10,https://demo.opencart.cn/index.php?route=product/search&search=mac,491,0,0
+1775138450169,406,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,10,10,https://demo.opencart.cn/index.php?route=product/manufacturer,404,0,0
+1775138450119,474,搜索商品,200,OK,Thread Group 1-3,text,true,,39716,219,10,10,https://demo.opencart.cn/index.php?route=product/search&search=mac,474,0,0
+1775138449993,610,搜索商品,200,OK,Thread Group 1-9,text,true,,39820,160,10,10,https://demo.opencart.cn/index.php?route=product/search&search=mac,608,0,92
+1775138450575,42,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,292,10,10,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138450236,390,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,10,10,https://demo.opencart.cn/index.php?route=product/manufacturer,390,0,0
+1775138450617,44,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,177,10,10,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138450625,44,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,292,10,10,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138450289,402,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,10,10,https://demo.opencart.cn/index.php?route=product/special,401,0,0
+1775138450308,396,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,10,10,https://demo.opencart.cn/index.php?route=product/manufacturer,396,0,0
+1775138450369,335,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,10,10,https://demo.opencart.cn/index.php?route=product/special,334,0,0
+1775138450669,40,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,177,10,10,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138450326,408,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,10,10,https://demo.opencart.cn/index.php?route=product/manufacturer,408,0,0
+1775138450703,44,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,292,10,10,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138450734,43,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,292,10,10,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138450747,43,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,177,10,10,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138450777,42,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,177,10,10,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138450854,91,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,270,11,11,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,91,0,46
+1775138450945,50,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,155,11,11,http://demo.opencart.cn/index.php?route=product/manufacturer,50,0,0
+1775138450571,425,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,11,11,https://demo.opencart.cn/index.php?route=account/register,425,0,0
+1775138450603,465,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,11,11,https://demo.opencart.cn/index.php?route=account/register,465,0,0
+1775138450593,483,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,11,11,https://demo.opencart.cn/index.php?route=account/register,480,0,0
+1775138450704,376,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,11,11,https://demo.opencart.cn/index.php?route=product/manufacturer,376,0,0
+1775138451081,48,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,292,11,11,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,48,0,0
+1775138450490,647,搜索商品,200,OK,Thread Group 1-10,text,true,,39820,160,11,11,https://demo.opencart.cn/index.php?route=product/search&search=mac,646,0,96
+1775138450669,473,搜索商品,200,OK,Thread Group 1-2,text,true,,39716,219,11,11,https://demo.opencart.cn/index.php?route=product/search&search=mac,472,0,0
+1775138450790,376,搜索商品,200,OK,Thread Group 1-5,text,true,,39716,219,11,11,https://demo.opencart.cn/index.php?route=product/search&search=mac,376,0,0
+1775138451129,48,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,177,11,11,http://demo.opencart.cn/index.php?route=product/manufacturer,48,0,0
+1775138450690,503,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,11,11,https://demo.opencart.cn/index.php?route=product/manufacturer,502,0,0
+1775138450710,506,搜索商品,200,OK,Thread Group 1-1,text,true,,39716,219,11,11,https://demo.opencart.cn/index.php?route=product/search&search=mac,506,0,0
+1775138451193,39,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,292,11,11,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138451233,40,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,177,11,11,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138450820,609,搜索商品,200,OK,Thread Group 1-7,text,true,,39716,219,12,12,https://demo.opencart.cn/index.php?route=product/search&search=mac,609,0,0
+1775138451354,93,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,270,12,12,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,93,0,49
+1775138450996,458,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,12,12,https://demo.opencart.cn/index.php?route=product/special,458,0,0
+1775138451447,49,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,155,12,12,http://demo.opencart.cn/index.php?route=product/manufacturer,49,0,0
+1775138451069,481,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,12,12,https://demo.opencart.cn/index.php?route=product/special,480,0,0
+1775138451077,477,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,12,12,https://demo.opencart.cn/index.php?route=product/special,476,0,0
+1775138451138,507,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,12,12,https://demo.opencart.cn/index.php?route=account/register,507,0,0
+1775138451142,506,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,12,12,https://demo.opencart.cn/index.php?route=account/register,506,0,0
+1775138451174,530,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,12,12,https://demo.opencart.cn/index.php?route=account/register,530,0,0
+1775138451216,527,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,12,12,https://demo.opencart.cn/index.php?route=account/register,527,0,0
+1775138450996,749,搜索商品,200,OK,Thread Group 1-11,text,true,,39820,160,12,12,https://demo.opencart.cn/index.php?route=product/search&search=mac,745,0,108
+1775138451177,598,搜索商品,200,OK,Thread Group 1-8,text,true,,39716,219,12,12,https://demo.opencart.cn/index.php?route=product/search&search=mac,598,0,0
+1775138451274,579,搜索商品,200,OK,Thread Group 1-4,text,true,,39716,219,12,12,https://demo.opencart.cn/index.php?route=product/search&search=mac,578,0,0
+1775138451855,89,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,270,13,13,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,89,0,43
+1775138451430,529,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,13,13,https://demo.opencart.cn/index.php?route=account/register,528,0,0
+1775138451944,45,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,155,13,13,http://demo.opencart.cn/index.php?route=product/manufacturer,45,0,0
+1775138451551,461,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,13,13,https://demo.opencart.cn/index.php?route=product/manufacturer,461,0,0
+1775138451454,597,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,13,13,https://demo.opencart.cn/index.php?route=product/manufacturer,597,0,0
+1775138452012,51,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,292,13,13,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,51,0,0
+1775138451554,527,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,13,13,https://demo.opencart.cn/index.php?route=product/manufacturer,524,0,0
+1775138452051,40,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,292,13,13,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138452064,42,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,177,13,13,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138452081,39,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,292,13,13,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138452091,37,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,177,13,13,http://demo.opencart.cn/index.php?route=product/manufacturer,37,0,0
+1775138451645,521,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,13,13,https://demo.opencart.cn/index.php?route=product/special,520,0,0
+1775138452121,38,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,177,13,13,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138451649,532,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,13,13,https://demo.opencart.cn/index.php?route=product/special,530,0,0
+1775138451743,567,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,13,13,https://demo.opencart.cn/index.php?route=product/special,566,0,0
+1775138451776,535,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,13,13,https://demo.opencart.cn/index.php?route=account/register,534,0,0
+1775138451745,569,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,13,13,https://demo.opencart.cn/index.php?route=account/register,567,0,0
+1775138451705,614,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,13,13,https://demo.opencart.cn/index.php?route=product/special,614,0,0
+1775138451497,822,搜索商品,200,OK,Thread Group 1-12,text,true,,39820,160,13,13,https://demo.opencart.cn/index.php?route=product/search&search=mac,822,0,107
+1775138451853,571,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,14,14,https://demo.opencart.cn/index.php?route=account/register,570,0,0
+1775138452357,92,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,270,14,14,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,92,0,46
+1775138451959,532,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,14,14,https://demo.opencart.cn/index.php?route=product/special,532,0,0
+1775138452450,43,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,155,14,14,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138452107,608,搜索商品,200,OK,Thread Group 1-9,text,true,,39716,219,14,14,https://demo.opencart.cn/index.php?route=product/search&search=mac,607,0,0
+1775138452320,495,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,14,14,https://demo.opencart.cn/index.php?route=account/register,493,0,0
+1775138452314,508,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,14,14,https://demo.opencart.cn/index.php?route=product/special,507,0,0
+1775138452181,648,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,14,14,https://demo.opencart.cn/index.php?route=product/manufacturer,648,0,0
+1775138452177,672,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,14,14,https://demo.opencart.cn/index.php?route=product/manufacturer,671,0,0
+1775138452829,40,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138452311,564,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,564,0,0
+1775138452849,48,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,48,0,0
+1775138451990,909,搜索商品,200,OK,Thread Group 1-13,text,true,,39820,160,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,908,0,94
+1775138452177,731,搜索商品,200,OK,Thread Group 1-3,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,729,0,0
+1775138452870,41,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138452311,602,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,602,0,0
+1775138452875,38,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138452128,790,搜索商品,200,OK,Thread Group 1-6,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,790,0,0
+1775138452319,600,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,600,0,0
+1775138452897,44,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138452857,92,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,270,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,92,0,46
+1775138452913,39,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138452920,38,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138452949,41,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,155,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138452959,45,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,45,0,0
+1775138452492,568,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,568,0,0
+1775138452424,651,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,651,0,0
+1775138453060,42,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138453103,45,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,45,0,0
+1775138452715,654,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,654,0,0
+1775138452822,562,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,562,0,0
+1775138452494,914,搜索商品,200,OK,Thread Group 1-14,text,true,,39820,160,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,914,0,93
+1775138453384,44,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138452816,629,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,629,0,0
+1775138453355,91,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,270,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,90,0,47
+1775138453428,42,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138453446,39,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,155,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138452913,637,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,636,0,0
+1775138453550,40,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138452919,675,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,674,0,0
+1775138452908,721,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,720,0,0
+1775138453591,38,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138452899,801,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,801,0,0
+1775138452911,803,搜索商品,200,OK,Thread Group 1-2,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,802,0,0
+1775138453076,710,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,710,0,0
+1775138452952,836,搜索商品,200,OK,Thread Group 1-1,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,836,0,0
+1775138453787,40,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138452941,915,搜索商品,200,OK,Thread Group 1-10,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,915,0,0
+1775138453827,40,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138453005,880,搜索商品,200,OK,Thread Group 1-5,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,879,0,0
+1775138452991,931,搜索商品,200,OK,Thread Group 1-15,text,true,,39820,160,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,928,0,90
+1775138453854,82,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,270,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,82,0,43
+1775138453936,42,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,155,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138453148,930,搜索商品,200,OK,Thread Group 1-7,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,930,0,0
+1775138453370,718,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,717,0,0
+1775138453446,778,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,778,0,0
+1775138453408,831,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,830,0,0
+1775138454225,41,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138454267,42,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138453595,843,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,18,18,https://demo.opencart.cn/index.php?route=product/special,843,0,0
+1775138454354,86,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,270,18,18,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,86,0,45
+1775138453629,815,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,18,18,https://demo.opencart.cn/index.php?route=product/special,815,0,0
+1775138454440,42,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,155,18,18,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138453789,791,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,791,0,0
+1775138453715,916,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,745,0,0
+1775138453867,1001,搜索商品,200,OK,Thread Group 1-4,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,808,0,0
+1775138454240,669,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,669,0,0
+1775138453471,1528,搜索商品,200,OK,Thread Group 1-11,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1003,0,0
+1775138454310,895,搜索商品,200,OK,Thread Group 1-12,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,579,0,0
+1775138454855,358,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,270,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,358,0,45
+1775138455213,42,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,155,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138454581,698,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,306,0,0
+1775138454438,857,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,817,0,0
+1775138455000,306,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,265,0,0
+1775138455296,36,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,36,0,0
+1775138455333,37,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,37,0,0
+1775138454869,526,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,453,0,0
+1775138455206,203,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,109,0,0
+1775138454656,757,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,320,0,0
+1775138455355,83,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,270,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,83,0,43
+1775138453980,1462,搜索商品,200,OK,Thread Group 1-17,text,true,,39820,160,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1385,0,94
+1775138455279,171,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,170,0,0
+1775138455438,42,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,155,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138455451,38,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138454482,1007,搜索商品,200,OK,Thread Group 1-18,text,true,,39820,160,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,925,0,99
+1775138454444,1063,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,776,0,0
+1775138455489,36,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,36,0,0
+1775138454909,627,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,588,0,0
+1775138455537,85,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,85,0,0
+1775138455508,115,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,115,0,0
+1775138455306,316,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,226,0,0
+1775138455623,37,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,37,0,0
+1775138455622,48,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,48,0,0
+1775138455396,289,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,288,0,0
+1775138453923,1815,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1133,0,0
+1775138454088,1650,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,1533,0,0
+1775138455410,334,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,293,0,0
+1775138453857,1888,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1244,0,0
+1775138453701,2076,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1318,0,0
+1775138455739,43,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138453886,1921,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1256,0,0
+1775138455782,45,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,45,0,0
+1775138453486,2343,搜索商品,200,OK,Thread Group 1-16,text,true,,39820,160,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,2049,0,97
+1775138455370,481,搜索商品,200,OK,Thread Group 1-6,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,480,0,0
+1775138453630,2224,搜索商品,200,OK,Thread Group 1-8,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1430,0,0
+1775138454079,1828,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1158,0,0
+1775138455414,506,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,467,0,0
+1775138455443,495,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,455,0,0
+1775138455920,44,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138455964,42,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138455490,658,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,615,0,0
+1775138455525,745,搜索商品,200,OK,Thread Group 1-1,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,698,0,0
+1775138455623,741,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,701,0,0
+1775138455685,683,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,683,0,0
+1775138456368,45,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,45,0,0
+1775138456364,49,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,49,0,0
+1775138456413,40,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138456413,41,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138455744,793,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,793,0,0
+1775138456538,42,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138455480,1121,搜索商品,200,OK,Thread Group 1-20,text,true,,39820,160,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1117,0,144
+1775138455678,950,搜索商品,200,OK,Thread Group 1-14,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,909,0,0
+1775138456580,48,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,48,0,0
+1775138455851,826,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,824,0,0
+1775138455778,941,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,854,0,0
+1775138455661,1059,搜索商品,200,OK,Thread Group 1-3,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1014,0,0
+1775138455830,915,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,875,0,0
+1775138456720,39,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138455938,857,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,813,0,0
+1775138456760,41,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138455739,1094,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,980,0,0
+1775138455746,1088,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,974,0,0
+1775138455255,1613,搜索商品,200,OK,Thread Group 1-19,text,true,,39820,160,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1372,0,82
+1775138455808,1090,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1002,0,0
+1775138456006,895,搜索商品,200,OK,Thread Group 1-2,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,852,0,0
+1775138456148,795,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,751,0,0
+1775138456270,710,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,708,0,0
+1775138455908,1114,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,988,0,0
+1775138455827,1206,搜索商品,200,OK,Thread Group 1-9,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1027,0,0
+1775138455856,1215,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1084,0,0
+1775138456454,846,搜索商品,200,OK,Thread Group 1-11,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,807,0,0
+1775138456454,872,搜索商品,200,OK,Thread Group 1-4,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,836,0,0
+1775138456601,732,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,732,0,0
+1775138456720,712,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,711,0,0
+1775138456628,805,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,804,0,0
+1775138456677,772,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,771,0,0
+1775138456628,984,搜索商品,200,OK,Thread Group 1-12,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,943,0,0
+1775138456796,829,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,790,0,0
+1775138457625,41,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138457666,42,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138456745,980,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,884,0,0
+1775138456944,825,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,781,0,0
+1775138456833,938,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,898,0,0
+1775138457770,44,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138457771,43,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138456869,978,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,903,0,0
+1775138457814,42,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138457814,43,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138456834,1025,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,987,0,0
+1775138457859,58,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,58,0,0
+1775138456901,1020,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,980,0,0
+1775138456980,942,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,942,0,0
+1775138456899,1032,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,990,0,0
+1775138457918,44,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138457931,47,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,47,0,0
+1775138456801,1189,搜索商品,200,OK,Thread Group 1-13,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1111,0,0
+1775138457978,40,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138457022,1018,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,977,0,0
+1775138457033,1017,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,943,0,0
+1775138458040,42,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138458082,42,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138457300,825,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,785,0,0
+1775138457333,807,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,807,0,0
+1775138457072,1121,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1045,0,0
+1775138457433,832,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,831,0,0
+1775138457432,848,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,848,0,0
+1775138457326,956,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,956,0,0
+1775138457450,842,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,842,0,0
+1775138458292,38,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,37,0,0
+1775138457613,730,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,730,0,0
+1775138458330,38,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138457708,1045,搜索商品,200,OK,Thread Group 1-17,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1006,0,0
+1775138457922,875,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,837,0,0
+1775138457728,1070,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,1028,0,0
+1775138457847,975,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,908,0,0
+1775138458799,48,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,48,0,0
+1775138457857,991,搜索商品,200,OK,Thread Group 1-18,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,949,0,0
+1775138458140,734,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,732,0,0
+1775138457923,953,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,951,0,0
+1775138458847,39,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138458874,42,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138458876,59,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,59,0,0
+1775138458916,44,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138458935,36,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,36,0,0
+1775138458266,708,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,707,0,0
+1775138458051,923,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,884,0,0
+1775138458974,45,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,45,0,0
+1775138457857,1165,搜索商品,200,OK,Thread Group 1-15,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1088,0,0
+1775138457962,1091,搜索商品,200,OK,Thread Group 1-10,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,974,0,0
+1775138458125,935,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,896,0,0
+1775138459020,44,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138457991,1117,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1078,0,0
+1775138458283,891,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,891,0,0
+1775138458280,953,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,953,0,0
+1775138458194,1058,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,1020,0,0
+1775138459234,39,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138459252,55,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,55,0,0
+1775138459273,39,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138459308,40,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138458018,1330,搜索商品,200,OK,Thread Group 1-5,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1206,0,0
+1775138458369,1016,搜索商品,200,OK,Thread Group 1-6,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1016,0,0
+1775138458344,1045,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1045,0,0
+1775138458124,1366,搜索商品,200,OK,Thread Group 1-7,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1242,0,0
+1775138458797,796,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,757,0,0
+1775138458822,805,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,769,0,0
+1775138459593,42,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138459627,42,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138459635,44,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138459669,48,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,48,0,0
+1775138458975,781,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,780,0,0
+1775138459769,44,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138458753,1061,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1025,0,0
+1775138459813,42,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138458971,900,搜索商品,200,OK,Thread Group 1-1,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,899,0,0
+1775138459061,818,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,779,0,0
+1775138458887,1019,搜索商品,200,OK,Thread Group 1-16,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,932,0,0
+1775138459880,40,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138458848,1100,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1058,0,0
+1775138459920,41,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138459053,921,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,882,0,0
+1775138458961,1062,搜索商品,200,OK,Thread Group 1-20,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1062,0,0
+1775138459175,902,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,902,0,0
+1775138459022,1089,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1050,0,0
+1775138460077,41,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138459389,732,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,732,0,0
+1775138460118,43,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138459108,1053,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1006,0,0
+1775138460121,45,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,45,0,0
+1775138459064,1130,搜索商品,200,OK,Thread Group 1-14,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1130,0,0
+1775138460166,42,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138459349,907,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,866,0,0
+1775138459386,866,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,862,0,0
+1775138459313,976,搜索商品,200,OK,Thread Group 1-3,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,975,0,0
+1775138459348,1196,搜索商品,200,OK,Thread Group 1-8,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1121,0,0
+1775138459491,1138,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1097,0,0
+1775138459717,1081,搜索商品,200,OK,Thread Group 1-19,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1010,0,0
+1775138459814,1204,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1168,0,0
+1775138459679,1345,搜索商品,200,OK,Thread Group 1-2,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1306,0,0
+1775138459871,1199,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1199,0,0
+1775138459906,1279,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1278,0,0
+1775138459949,1330,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1289,0,0
+1775138459974,1300,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1300,0,0
+1775138459961,1376,搜索商品,200,OK,Thread Group 1-11,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1335,0,0
+1775138460024,1344,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1344,0,0
+1775138459855,1514,搜索商品,200,OK,Thread Group 1-9,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1465,0,0
+1775138460162,1337,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,1337,0,0
+1775138460195,1336,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1336,0,0
+1775138461499,49,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,49,0,0
+1775138461548,40,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138460111,1482,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1442,0,0
+1775138460264,1414,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1414,0,0
+1775138460162,1525,搜索商品,200,OK,Thread Group 1-4,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1524,0,0
+1775138460289,1465,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1465,0,0
+1775138460264,1555,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1512,0,0
+1775138460208,1672,搜索商品,200,OK,Thread Group 1-12,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1632,0,0
+1775138461291,614,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,611,0,0
+1775138461905,42,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138460544,1419,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1416,0,0
+1775138461947,42,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138460798,1287,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1286,0,0
+1775138460628,1460,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1419,0,0
+1775138461018,1162,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,1162,0,0
+1775138461069,1122,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1122,0,0
+1775138461023,1190,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1189,0,0
+1775138461531,690,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,688,0,0
+1775138462181,40,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138462222,41,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138461185,1144,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1144,0,0
+1775138461336,1042,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1003,0,0
+1775138461291,1110,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,1109,0,0
+1775138462401,41,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138461368,1081,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1081,0,0
+1775138461368,1104,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1103,0,0
+1775138462442,42,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138461686,837,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,837,0,0
+1775138461678,870,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,870,0,0
+1775138461592,970,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,969,0,0
+1775138462548,38,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138462562,43,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138462587,39,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138462605,42,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138461818,835,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,794,0,0
+1775138461754,908,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,908,0,0
+1775138462653,40,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138462693,41,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138461880,880,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,879,0,0
+1775138461589,1234,搜索商品,200,OK,Thread Group 1-13,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1196,0,0
+1775138461964,1013,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1001,0,0
+1775138462222,819,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,819,0,0
+1775138462191,864,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,864,0,0
+1775138462088,982,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,941,0,0
+1775138463042,43,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138461990,1099,搜索商品,200,OK,Thread Group 1-18,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1057,0,0
+1775138463055,38,加入购物车,301,Moved Permanently,Thread Group 1-1,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138462085,1020,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,982,0,0
+1775138462213,903,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,864,0,0
+1775138463071,47,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,47,0,0
+1775138463085,42,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138463093,37,查看购物车,301,Moved Permanently,Thread Group 1-1,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,37,0,0
+1775138463118,46,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,46,0,0
+1775138462264,967,搜索商品,200,OK,Thread Group 1-17,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,929,0,0
+1775138462329,919,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,879,0,0
+1775138463249,39,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138462523,790,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,790,0,0
+1775138463288,42,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138462449,900,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,900,0,0
+1775138462378,990,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,954,0,0
+1775138463349,42,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138463391,41,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138462662,775,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,775,0,0
+1775138462473,978,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,939,0,0
+1775138463437,35,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,35,0,0
+1775138463472,36,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,36,0,0
+1775138462760,852,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,852,0,0
+1775138462484,1150,搜索商品,200,OK,Thread Group 1-10,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1074,0,0
+1775138462831,879,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,840,0,0
+1775138462627,1091,搜索商品,200,OK,Thread Group 1-6,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1091,0,0
+1775138462734,1044,搜索商品,200,OK,Thread Group 1-5,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,964,0,0
+1775138462648,1176,搜索商品,200,OK,Thread Group 1-15,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1101,0,0
+1775138462977,918,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,881,0,0
+1775138463896,39,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138463935,40,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138463116,869,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,868,0,0
+1775138463985,41,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138463105,935,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,895,0,0
+1775138463130,915,搜索商品,200,OK,Thread Group 1-1,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,915,0,0
+1775138463089,967,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,967,0,0
+1775138464026,41,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138464040,40,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138464081,41,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138463368,771,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,771,0,0
+1775138463231,930,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,929,0,0
+1775138464139,40,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138463314,899,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,899,0,0
+1775138464179,38,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138463127,1096,搜索商品,200,OK,Thread Group 1-14,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1095,0,0
+1775138464213,39,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138464252,38,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138463164,1165,搜索商品,200,OK,Thread Group 1-7,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1086,0,0
+1775138463451,930,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,892,0,0
+1775138463432,957,搜索商品,200,OK,Thread Group 1-20,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,957,0,0
+1775138463339,1056,搜索商品,200,OK,Thread Group 1-16,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,968,0,0
+1775138464381,42,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138463612,845,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,845,0,0
+1775138464423,43,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138463634,861,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,820,0,0
+1775138464458,41,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138464499,45,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,45,0,0
+1775138463508,1038,搜索商品,200,OK,Thread Group 1-3,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1037,0,0
+1775138463719,867,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,865,0,0
+1775138463710,889,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,850,0,0
+1775138463825,906,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,869,0,0
+1775138463778,1019,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,979,0,0
+1775138464046,839,注册新用户,200,OK,Thread Group 1-1,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,838,0,0
+1775138463976,1028,搜索商品,200,OK,Thread Group 1-8,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,952,0,0
+1775138464223,808,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,808,0,0
+1775138464056,976,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,935,0,0
+1775138464161,931,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,892,0,0
+1775138464067,1186,搜索商品,200,OK,Thread Group 1-2,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1147,0,0
+1775138464122,1138,搜索商品,200,OK,Thread Group 1-19,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1068,0,0
+1775138464217,1049,搜索商品,200,OK,Thread Group 1-11,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1010,0,0
+1775138464330,955,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,915,0,0
+1775138464390,909,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,908,0,0
+1775138464395,936,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,895,0,0
+1775138464290,1046,搜索商品,200,OK,Thread Group 1-4,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1044,0,0
+1775138464599,839,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,788,0,0
+1775138464466,981,搜索商品,200,OK,Thread Group 1-9,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,942,0,0
+1775138464546,923,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,923,0,0
+1775138465439,40,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138464496,1003,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,964,0,0
+1775138465479,39,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138464587,951,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,951,0,0
+1775138464545,1147,搜索商品,200,OK,Thread Group 1-12,text,true,,39716,219,20,20,https://demo.opencart.cn/index.php?route=product/search&search=mac,1107,0,0
+1775138464732,983,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,946,0,0
+1775138464797,945,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,905,0,0
+1775138464885,963,查看特价商品,200,OK,Thread Group 1-1,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,963,0,0
+1775138465032,853,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,853,0,0
+1775138465885,42,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138465031,921,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,920,0,0
+1775138465927,40,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138465092,879,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,879,0,0
+1775138465972,38,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138465004,1048,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,1005,0,0
+1775138466010,42,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138465266,899,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,899,0,0
+1775138465300,895,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,895,0,0
+1775138465336,863,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,862,0,0
+1775138465254,973,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,972,0,0
+1775138465260,970,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,934,0,0
+1775138465286,950,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,909,0,0
+1775138465331,906,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,865,0,0
+1775138465743,597,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,557,0,0
+1775138466341,39,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138465447,945,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,906,0,0
+1775138466380,95,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,95,0,0
+1775138465499,979,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,870,0,0
+1775138465470,1008,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,20,20,https://demo.opencart.cn/index.php?route=product/special,1008,0,0
+1775138465538,982,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,981,0,0
+1775138466478,52,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,52,0,0
+1775138466521,40,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,292,20,20,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138466531,43,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138465693,904,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,20,20,https://demo.opencart.cn/index.php?route=account/register,903,0,0
+1775138466562,38,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,177,20,20,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138465848,778,查看品牌列表,200,OK,Thread Group 1-1,text,true,,23837,214,20,20,https://demo.opencart.cn/index.php?route=product/manufacturer,777,0,0
+1775138465519,1128,搜索商品,200,OK,Thread Group 1-13,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1090,0,0
+1775138465716,943,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,904,0,0
+1775138466659,42,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138466702,43,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138465952,797,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,796,0,0
+1775138466749,43,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138466195,605,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,605,0,0
+1775138466792,44,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138466801,43,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138466237,613,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,572,0,0
+1775138466844,44,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138466850,42,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138466908,43,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138466199,820,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,818,0,0
+1775138466165,918,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,918,0,0
+1775138466227,900,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,899,0,0
+1775138466648,503,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,465,0,0
+1775138466053,1118,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,1079,0,0
+1775138466402,810,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,732,0,0
+1775138466238,975,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,935,0,0
+1775138465967,1250,搜索商品,200,OK,Thread Group 1-18,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1178,0,0
+1775138467214,40,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138466053,1207,搜索商品,200,OK,Thread Group 1-17,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1168,0,0
+1775138467254,40,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138466231,1091,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,1053,0,0
+1775138466478,1041,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,1041,0,0
+1775138467519,41,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138466746,816,搜索商品,200,OK,Thread Group 1-15,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,775,0,0
+1775138466597,979,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,979,0,0
+1775138467560,37,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,37,0,0
+1775138466475,1184,搜索商品,200,OK,Thread Group 1-5,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1141,0,0
+1775138466888,868,搜索商品,200,OK,Thread Group 1-20,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,864,0,0
+1775138466574,1184,搜索商品,200,OK,Thread Group 1-10,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1140,0,0
+1775138466600,1197,搜索商品,200,OK,Thread Group 1-6,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1196,0,0
+1775138466836,990,搜索商品,200,OK,Thread Group 1-14,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,990,0,0
+1775138467019,837,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,837,0,0
+1775138467857,38,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138467127,780,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,780,0,0
+1775138467895,40,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138467084,855,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,855,0,0
+1775138467907,41,加入购物车,301,Moved Permanently,Thread Group 1-2,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138467939,38,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138467948,43,查看购物车,301,Moved Permanently,Thread Group 1-2,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138466951,1056,搜索商品,200,OK,Thread Group 1-7,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1015,0,0
+1775138467978,38,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138467213,815,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,815,0,0
+1775138467217,832,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,831,0,0
+1775138467172,897,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,859,0,0
+1775138468028,43,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138467152,922,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,883,0,0
+1775138468070,40,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138468071,41,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138467260,875,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,875,0,0
+1775138468111,39,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138467322,884,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,848,0,0
+1775138468207,42,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138468249,43,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138467295,1031,搜索商品,200,OK,Thread Group 1-16,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,988,0,0
+1775138467576,847,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,846,0,0
+1775138468424,43,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138467562,931,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,893,0,0
+1775138468467,42,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138467597,964,搜索商品,200,OK,Thread Group 1-3,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,963,0,0
+1775138467660,911,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,870,0,0
+1775138467797,786,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,786,0,0
+1775138467758,868,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,830,0,0
+1775138467757,926,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,925,0,0
+1775138468074,625,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,624,0,0
+1775138467935,766,搜索商品,200,OK,Thread Group 1-4,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,765,0,0
+1775138468699,44,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138468743,42,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138467827,963,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,963,0,0
+1775138468584,329,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,329,0,0
+1775138468049,978,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,978,0,0
+1775138468008,1046,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,1006,0,0
+1775138468150,946,搜索商品,200,OK,Thread Group 1-8,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,907,0,0
+1775138468135,1004,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,1004,0,0
+1775138467991,1154,搜索商品,200,OK,Thread Group 1-2,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1117,0,0
+1775138468327,830,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,789,0,0
+1775138468017,1158,搜索商品,200,OK,Thread Group 1-11,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1108,0,0
+1775138468113,1136,搜索商品,200,OK,Thread Group 1-9,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1098,0,0
+1775138468683,693,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,693,0,0
+1775138468294,1123,搜索商品,200,OK,Thread Group 1-19,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1086,0,0
+1775138468561,907,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,906,0,0
+1775138468493,1087,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,1050,0,0
+1775138468627,963,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,927,0,0
+1775138468702,899,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,899,0,0
+1775138468510,1209,搜索商品,200,OK,Thread Group 1-12,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1169,0,0
+1775138468914,828,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,828,0,0
+1775138468571,1182,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,1141,0,0
+1775138469742,38,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138469780,39,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138468791,1036,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,1036,0,0
+1775138468786,1103,搜索商品,200,OK,Thread Group 1-13,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1059,0,0
+1775138469054,909,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,865,0,0
+1775138469028,1004,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,1004,0,0
+1775138470033,42,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138470075,43,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138469250,889,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,888,0,0
+1775138469139,1009,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,1007,0,0
+1775138469096,1056,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,1016,0,0
+1775138470149,40,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138469158,1034,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,993,0,0
+1775138469176,1017,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,1016,0,0
+1775138469376,838,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,838,0,0
+1775138469145,1079,注册新用户,200,OK,Thread Group 1-2,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,1079,0,0
+1775138470189,41,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138470215,42,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138470257,44,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138469468,861,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,860,0,0
+1775138469417,919,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,919,0,0
+1775138469580,838,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,838,0,0
+1775138469591,833,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,832,0,0
+1775138470424,41,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138469753,708,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,707,0,0
+1775138470419,42,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138469602,904,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,903,0,0
+1775138470476,40,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138470476,41,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138470477,40,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138470516,43,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138469964,696,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,696,0,0
+1775138469720,963,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,962,0,0
+1775138470660,44,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138470704,44,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138469819,937,搜索商品,200,OK,Thread Group 1-6,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,936,0,0
+1775138469827,930,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,930,0,0
+1775138469889,890,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,889,0,0
+1775138470757,43,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138470800,45,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,45,0,0
+1775138470193,689,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,689,0,0
+1775138470152,735,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,697,0,0
+1775138470193,697,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,697,0,0
+1775138470882,42,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138470924,41,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138470225,761,查看特价商品,200,OK,Thread Group 1-2,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,760,0,0
+1775138470329,790,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,790,0,0
+1775138471120,37,加入购物车,301,Moved Permanently,Thread Group 1-3,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,37,0,0
+1775138470119,1075,搜索商品,200,OK,Thread Group 1-18,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1032,0,0
+1775138471158,39,查看购物车,301,Moved Permanently,Thread Group 1-3,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138470139,1063,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,1023,0,0
+1775138470230,973,搜索商品,200,OK,Thread Group 1-17,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,932,0,0
+1775138470337,1000,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,964,0,0
+1775138470779,652,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,614,0,0
+1775138470507,959,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,959,0,0
+1775138470301,1178,搜索商品,200,OK,Thread Group 1-20,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1177,0,0
+1775138471466,39,加入购物车,301,Moved Permanently,Thread Group 1-4,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138471505,39,查看购物车,301,Moved Permanently,Thread Group 1-4,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138470756,805,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,19,19,https://demo.opencart.cn/index.php?route=account/register,804,0,0
+1775138470891,703,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,703,0,0
+1775138470518,1078,搜索商品,200,OK,Thread Group 1-15,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1039,0,0
+1775138471594,40,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138470683,974,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,19,19,https://demo.opencart.cn/index.php?route=product/special,973,0,0
+1775138471634,41,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,177,19,19,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138470518,1197,搜索商品,200,OK,Thread Group 1-10,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1157,0,0
+1775138470560,1211,搜索商品,200,OK,Thread Group 1-5,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1168,0,0
+1775138470887,943,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,943,0,0
+1775138470845,1002,搜索商品,200,OK,Thread Group 1-14,text,true,,39716,219,19,19,https://demo.opencart.cn/index.php?route=product/search&search=mac,1002,0,0
+1775138471831,40,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,292,19,19,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138471012,865,查看品牌列表,200,OK,Thread Group 1-2,text,true,,23837,214,19,19,https://demo.opencart.cn/index.php?route=product/manufacturer,865,0,0
+1775138470749,1143,搜索商品,200,OK,Thread Group 1-7,text,true,,39716,219,18,18,https://demo.opencart.cn/index.php?route=product/search&search=mac,1101,0,0
+1775138471871,40,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,177,18,18,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138470966,1022,搜索商品,200,OK,Thread Group 1-16,text,true,,39716,219,18,18,https://demo.opencart.cn/index.php?route=product/search&search=mac,980,0,0
+1775138471195,847,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,845,0,0
+1775138471203,855,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,18,18,https://demo.opencart.cn/index.php?route=product/manufacturer,855,0,0
+1775138471203,886,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,883,0,0
+1775138472059,41,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,292,18,18,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138472100,42,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,177,18,18,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138471197,984,搜索商品,200,OK,Thread Group 1-3,text,true,,39716,219,18,18,https://demo.opencart.cn/index.php?route=product/search&search=mac,982,0,0
+1775138471338,862,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,18,18,https://demo.opencart.cn/index.php?route=product/manufacturer,862,0,0
+1775138472201,42,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,292,18,18,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138471432,816,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,18,18,https://demo.opencart.cn/index.php?route=product/manufacturer,815,0,0
+1775138472244,42,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,177,18,18,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138472248,41,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,292,18,18,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138472290,39,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,177,18,18,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138471493,911,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,910,0,0
+1775138471562,863,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,18,18,https://demo.opencart.cn/index.php?route=product/special,862,0,0
+1775138471658,772,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,18,18,https://demo.opencart.cn/index.php?route=product/manufacturer,772,0,0
+1775138472430,44,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,292,18,18,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138471715,786,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,786,0,0
+1775138472475,41,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,177,18,18,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138471596,955,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,953,0,0
+1775138471544,1009,搜索商品,200,OK,Thread Group 1-4,text,true,,39716,219,18,18,https://demo.opencart.cn/index.php?route=product/search&search=mac,1008,0,0
+1775138472404,1017,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,18,18,https://demo.opencart.cn/index.php?route=product/special,976,0,0
+1775138472552,884,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,18,18,https://demo.opencart.cn/index.php?route=product/special,845,0,0
+1775138472553,923,注册新用户,200,OK,Thread Group 1-4,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,887,0,0
+1775138471771,1775,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,1650,0,0
+1775138471893,1666,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,1313,0,0
+1775138472042,1599,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,18,18,https://demo.opencart.cn/index.php?route=product/special,1176,0,0
+1775138473421,239,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,18,18,https://demo.opencart.cn/index.php?route=product/manufacturer,138,0,0
+1775138471988,1689,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,18,18,https://demo.opencart.cn/index.php?route=account/register,1265,0,0
+1775138473660,43,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,292,18,18,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138471676,2045,搜索商品,200,OK,Thread Group 1-11,text,true,,39716,219,18,18,https://demo.opencart.cn/index.php?route=product/search&search=mac,1772,0,0
+1775138473703,43,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,177,18,18,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138471912,1933,搜索商品,200,OK,Thread Group 1-8,text,true,,39716,219,18,18,https://demo.opencart.cn/index.php?route=product/search&search=mac,1624,0,0
+1775138473477,375,查看特价商品,200,OK,Thread Group 1-4,text,true,,29244,209,18,18,https://demo.opencart.cn/index.php?route=product/special,339,0,0
+1775138473546,437,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,18,18,https://demo.opencart.cn/index.php?route=product/special,208,0,0
+1775138473853,184,查看品牌列表,200,OK,Thread Group 1-4,text,true,,23837,214,18,18,https://demo.opencart.cn/index.php?route=product/manufacturer,147,0,0
+1775138473983,150,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,150,0,0
+1775138474133,39,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138474172,42,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138472182,2054,注册新用户,200,OK,Thread Group 1-3,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,1359,0,0
+1775138473745,497,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,379,0,0
+1775138473437,819,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,446,0,0
+1775138473560,702,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,368,0,0
+1775138474256,41,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138474298,45,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,45,0,0
+1775138472089,2255,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,1511,0,0
+1775138473845,537,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,342,0,0
+1775138472519,1881,搜索商品,200,OK,Thread Group 1-12,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,1091,0,0
+1775138472502,1902,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,1209,0,0
+1775138474214,271,搜索商品,200,OK,Thread Group 1-5,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,230,0,0
+1775138473746,776,搜索商品,200,OK,Thread Group 1-20,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,362,0,0
+1775138472287,2288,搜索商品,200,OK,Thread Group 1-19,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,1998,0,0
+1775138474523,428,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,388,0,0
+1775138473642,1343,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,1301,0,0
+1775138474485,506,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,500,0,0
+1775138474242,753,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,415,0,0
+1775138474400,601,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,556,0,0
+1775138474985,41,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138475026,41,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138474952,178,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,138,0,0
+1775138473678,1490,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,809,0,0
+1775138474262,944,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,685,0,0
+1775138474383,825,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,710,0,0
+1775138474405,834,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,758,0,0
+1775138472426,2831,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,1179,0,0
+1775138474344,927,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,417,0,0
+1775138475239,42,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138475257,42,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138474575,732,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,500,0,0
+1775138475271,47,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,47,0,0
+1775138475281,41,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138474991,331,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,252,0,0
+1775138475300,37,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,37,0,0
+1775138475318,38,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138475002,378,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,296,0,0
+1775138472330,3161,搜索商品,200,OK,Thread Group 1-13,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,1890,0,0
+1775138475209,304,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,266,0,0
+1775138475206,329,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,329,0,0
+1775138475513,40,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138474995,564,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,266,0,0
+1775138475131,442,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,400,0,0
+1775138475535,40,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138475553,42,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138475572,40,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138475573,42,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138475613,38,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138475615,42,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138475322,417,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,377,0,0
+1775138475380,379,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,339,0,0
+1775138475740,38,加入购物车,301,Moved Permanently,Thread Group 1-5,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138475779,38,查看购物车,301,Moved Permanently,Thread Group 1-5,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138472143,3693,搜索商品,200,OK,Thread Group 1-9,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,3067,0,0
+1775138475308,572,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,444,0,0
+1775138474237,1699,查看特价商品,200,OK,Thread Group 1-3,text,true,,29244,209,17,17,https://demo.opencart.cn/index.php?route=product/special,1012,0,0
+1775138475595,494,搜索商品,200,OK,Thread Group 1-8,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,328,0,0
+1775138475322,796,搜索商品,200,OK,Thread Group 1-10,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,315,0,0
+1775138474344,1786,搜索商品,200,OK,Thread Group 1-15,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,811,0,0
+1775138475818,424,搜索商品,200,OK,Thread Group 1-5,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,302,0,0
+1775138475881,435,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,360,0,0
+1775138476316,42,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138475356,1010,搜索商品,200,OK,Thread Group 1-17,text,true,,39716,219,17,17,https://demo.opencart.cn/index.php?route=product/search&search=mac,701,0,0
+1775138475759,609,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,609,0,0
+1775138476358,42,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138476368,40,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138475168,1240,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,805,0,0
+1775138476089,343,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,227,0,0
+1775138476409,43,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,292,17,17,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138476452,41,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,177,17,17,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138476118,464,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,313,0,0
+1775138475491,1103,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,17,17,https://demo.opencart.cn/index.php?route=account/register,797,0,0
+1775138475937,746,查看品牌列表,200,OK,Thread Group 1-3,text,true,,23837,214,17,17,https://demo.opencart.cn/index.php?route=product/manufacturer,245,0,0
+1775138476130,560,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,314,0,0
+1775138476409,381,搜索商品,200,OK,Thread Group 1-12,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,221,0,0
+1775138475575,1250,搜索商品,200,OK,Thread Group 1-7,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,458,0,0
+1775138476432,488,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,337,0,0
+1775138476583,532,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,415,0,0
+1775138471848,5272,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,1446,0,0
+1775138475067,2075,搜索商品,200,OK,Thread Group 1-18,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,424,0,0
+1775138476691,494,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,344,0,0
+1775138476595,639,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,522,0,0
+1775138476366,873,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,758,0,0
+1775138476790,472,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,172,0,0
+1775138476921,370,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,295,0,0
+1775138476243,1082,注册新用户,200,OK,Thread Group 1-5,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,454,0,0
+1775138477291,40,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138475337,2017,搜索商品,200,OK,Thread Group 1-6,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,676,0,0
+1775138477331,40,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138475837,1550,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,795,0,0
+1775138476825,575,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,328,0,0
+1775138477185,304,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,266,0,0
+1775138477490,42,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138477532,43,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138477115,523,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,408,0,0
+1775138476400,1484,搜索商品,200,OK,Thread Group 1-19,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,328,0,0
+1775138477638,328,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,328,0,0
+1775138475652,2315,搜索商品,200,OK,Thread Group 1-11,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,881,0,0
+1775138477967,43,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,43,0,0
+1775138477240,843,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,693,0,0
+1775138477143,974,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,713,0,0
+1775138477400,719,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,510,0,0
+1775138477234,979,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,866,0,0
+1775138478214,51,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,51,0,0
+1775138477262,1006,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,791,0,0
+1775138477120,1182,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,757,0,0
+1775138478265,38,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138477372,963,搜索商品,200,OK,Thread Group 1-8,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,530,0,0
+1775138477388,1048,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,626,0,0
+1775138477575,914,搜索商品,200,OK,Thread Group 1-15,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,323,0,0
+1775138478083,441,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,326,0,0
+1775138478525,40,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138477354,1229,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,1063,0,0
+1775138478565,44,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138478118,543,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,284,0,0
+1775138478269,473,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,351,0,0
+1775138478742,42,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138478303,504,搜索商品,200,OK,Thread Group 1-13,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,280,0,0
+1775138478784,44,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138477884,980,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,783,0,0
+1775138478119,764,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,362,0,0
+1775138478884,43,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138478335,620,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,428,0,0
+1775138478927,40,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138478303,684,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,575,0,0
+1775138478988,51,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,51,0,0
+1775138477326,1713,查看特价商品,200,OK,Thread Group 1-5,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,994,0,0
+1775138479039,47,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,47,0,0
+1775138475657,3443,搜索商品,200,OK,Thread Group 1-20,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,831,0,0
+1775138478010,1116,搜索商品,200,OK,Thread Group 1-10,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,215,0,0
+1775138478437,758,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,457,0,0
+1775138476493,2710,搜索商品,200,OK,Thread Group 1-16,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,1868,0,0
+1775138479196,45,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,45,0,0
+1775138478661,592,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,504,0,0
+1775138478807,446,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,238,0,0
+1775138479241,41,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138479253,42,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138478610,725,搜索商品,200,OK,Thread Group 1-17,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,385,0,0
+1775138479295,42,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138478489,907,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,678,0,0
+1775138478584,856,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,539,0,0
+1775138478828,727,搜索商品,200,OK,Thread Group 1-12,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,397,0,0
+1775138477968,1661,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,1156,0,0
+1775138478956,843,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,513,0,0
+1775138479254,558,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,483,0,0
+1775138479126,773,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,512,0,0
+1775138479203,701,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,534,0,0
+1775138479086,886,搜索商品,200,OK,Thread Group 1-14,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,569,0,0
+1775138479812,201,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,163,0,0
+1775138480013,40,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138480053,53,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,53,0,0
+1775138479800,326,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,243,0,0
+1775138480136,38,加入购物车,301,Moved Permanently,Thread Group 1-8,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138480174,39,查看购物车,301,Moved Permanently,Thread Group 1-8,text,true,,436,177,16,16,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138479100,1112,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,992,0,0
+1775138479972,323,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,210,0,0
+1775138479899,444,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,16,16,https://demo.opencart.cn/index.php?route=product/special,326,0,0
+1775138479440,1047,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,838,0,0
+1775138479556,960,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,16,16,https://demo.opencart.cn/index.php?route=account/register,746,0,0
+1775138479039,1499,查看品牌列表,200,OK,Thread Group 1-5,text,true,,23837,214,16,16,https://demo.opencart.cn/index.php?route=product/manufacturer,1413,0,0
+1775138480488,52,加入购物车,301,Moved Permanently,Thread Group 1-6,text,true,,442,292,16,16,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,52,0,0
+1775138480106,440,搜索商品,200,OK,Thread Group 1-13,text,true,,39716,219,16,16,https://demo.opencart.cn/index.php?route=product/search&search=mac,155,0,0
+1775138480540,37,查看购物车,301,Moved Permanently,Thread Group 1-6,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,37,0,0
+1775138480343,269,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,228,0,0
+1775138479904,708,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,544,0,0
+1775138480213,430,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,229,0,0
+1775138478864,1783,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,1517,0,0
+1775138480295,356,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,276,0,0
+1775138480612,41,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138480654,40,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138479337,1438,搜索商品,200,OK,Thread Group 1-18,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,1189,0,0
+1775138479335,1564,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,1291,0,0
+1775138480559,504,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,391,0,0
+1775138480651,424,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,384,0,0
+1775138481075,43,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138479396,1737,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,1257,0,0
+1775138480647,502,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,460,0,0
+1775138480213,936,搜索商品,200,OK,Thread Group 1-8,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,297,0,0
+1775138480612,535,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,277,0,0
+1775138481118,44,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138478967,2209,搜索商品,200,OK,Thread Group 1-7,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,959,0,0
+1775138480695,487,搜索商品,200,OK,Thread Group 1-10,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,374,0,0
+1775138481150,40,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138481150,40,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138481190,40,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138481190,41,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138480643,599,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,519,0,0
+1775138481243,57,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,57,0,0
+1775138481064,257,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,183,0,0
+1775138481300,41,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138480775,566,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,486,0,0
+1775138479282,2101,搜索商品,200,OK,Thread Group 1-9,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,910,0,0
+1775138479633,1879,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,1041,0,0
+1775138481182,514,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,436,0,0
+1775138481176,526,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,437,0,0
+1775138481163,590,搜索商品,200,OK,Thread Group 1-14,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,468,0,0
+1775138480899,891,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,607,0,0
+1775138481321,499,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,460,0,0
+1775138481231,619,搜索商品,200,OK,Thread Group 1-19,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,475,0,0
+1775138481820,41,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138481861,41,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138481341,583,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,500,0,0
+1775138481341,595,搜索商品,200,OK,Thread Group 1-20,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,424,0,0
+1775138481696,282,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,242,0,0
+1775138481753,324,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,286,0,0
+1775138480577,1539,搜索商品,200,OK,Thread Group 1-6,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,978,0,0
+1775138481851,321,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,285,0,0
+1775138481925,300,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,259,0,0
+1775138482226,42,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138481702,567,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,316,0,0
+1775138481937,351,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,310,0,0
+1775138482268,42,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138481918,463,搜索商品,200,OK,Thread Group 1-13,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,311,0,0
+1775138481383,1012,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,892,0,0
+1775138480517,1897,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,1236,0,0
+1775138482078,339,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,296,0,0
+1775138481150,1271,注册新用户,200,OK,Thread Group 1-8,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,857,0,0
+1775138482173,264,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,227,0,0
+1775138481512,928,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,428,0,0
+1775138481231,1244,搜索商品,200,OK,Thread Group 1-16,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,816,0,0
+1775138482440,48,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,48,0,0
+1775138482488,47,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,47,0,0
+1775138481790,769,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,728,0,0
+1775138482269,292,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,251,0,0
+1775138481979,604,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,521,0,0
+1775138482559,41,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138482561,43,加入购物车,301,Moved Permanently,Thread Group 1-7,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138481133,1492,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,837,0,0
+1775138482583,42,加入购物车,301,Moved Permanently,Thread Group 1-10,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138482601,38,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138482604,42,查看购物车,301,Moved Permanently,Thread Group 1-7,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138482625,49,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,49,0,0
+1775138482625,48,查看购物车,301,Moved Permanently,Thread Group 1-10,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,48,0,0
+1775138482676,41,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138482311,469,搜索商品,200,OK,Thread Group 1-18,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,386,0,0
+1775138482382,522,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,395,0,0
+1775138482288,666,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,297,0,0
+1775138482438,538,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,535,0,0
+1775138482417,570,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,532,0,0
+1775138482976,42,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138482987,42,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138483018,42,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138483030,44,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138482415,680,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,597,0,0
+1775138483095,43,加入购物车,301,Moved Permanently,Thread Group 1-12,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,43,0,0
+1775138483138,46,查看购物车,301,Moved Permanently,Thread Group 1-12,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,46,0,0
+1775138482476,780,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,694,0,0
+1775138482396,883,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,544,0,0
+1775138482676,627,搜索商品,200,OK,Thread Group 1-10,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,511,0,0
+1775138482781,524,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,479,0,0
+1775138482535,782,搜索商品,200,OK,Thread Group 1-11,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,620,0,0
+1775138482646,707,搜索商品,200,OK,Thread Group 1-7,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,585,0,0
+1775138482639,736,搜索商品,200,OK,Thread Group 1-17,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,617,0,0
+1775138482905,473,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,396,0,0
+1775138482717,675,搜索商品,200,OK,Thread Group 1-15,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,556,0,0
+1775138482955,445,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,404,0,0
+1775138483400,42,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138483060,386,搜索商品,200,OK,Thread Group 1-19,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,347,0,0
+1775138483443,42,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138482116,1373,注册新用户,200,OK,Thread Group 1-6,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,785,0,0
+1775138483074,456,搜索商品,200,OK,Thread Group 1-14,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,344,0,0
+1775138483305,527,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,486,0,0
+1775138483378,476,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,438,0,0
+1775138483854,40,加入购物车,301,Moved Permanently,Thread Group 1-13,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138483303,639,注册新用户,200,OK,Thread Group 1-10,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,596,0,0
+1775138483894,48,查看购物车,301,Moved Permanently,Thread Group 1-13,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,48,0,0
+1775138483318,626,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,549,0,0
+1775138483257,735,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,652,0,0
+1775138483446,580,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,545,0,0
+1775138483530,575,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,536,0,0
+1775138483353,769,注册新用户,200,OK,Thread Group 1-7,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,687,0,0
+1775138483375,763,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,650,0,0
+1775138483832,364,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,326,0,0
+1775138484202,44,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138484246,41,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138482422,1879,查看特价商品,200,OK,Thread Group 1-8,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,724,0,0
+1775138483490,827,查看特价商品,200,OK,Thread Group 1-6,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,673,0,0
+1775138483943,391,查看特价商品,200,OK,Thread Group 1-10,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,354,0,0
+1775138483288,1055,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,978,0,0
+1775138483992,353,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,312,0,0
+1775138484345,41,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138484343,54,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,292,15,15,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,54,0,0
+1775138483392,1009,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,15,15,https://demo.opencart.cn/index.php?route=account/register,931,0,0
+1775138484386,38,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,38,0,0
+1775138483945,492,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,337,0,0
+1775138484398,39,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,177,15,15,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138484105,436,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,340,0,0
+1775138484138,453,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,15,15,https://demo.opencart.cn/index.php?route=product/special,377,0,0
+1775138483485,1178,搜索商品,200,OK,Thread Group 1-20,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,1055,0,0
+1775138483943,749,搜索商品,200,OK,Thread Group 1-13,text,true,,39716,219,15,15,https://demo.opencart.cn/index.php?route=product/search&search=mac,382,0,0
+1775138484334,377,查看品牌列表,200,OK,Thread Group 1-10,text,true,,23837,214,15,15,https://demo.opencart.cn/index.php?route=product/manufacturer,376,0,0
+1775138484026,704,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,14,14,https://demo.opencart.cn/index.php?route=product/special,386,0,0
+1775138484287,585,搜索商品,200,OK,Thread Group 1-18,text,true,,39716,219,14,14,https://demo.opencart.cn/index.php?route=product/search&search=mac,499,0,0
+1775138484402,474,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,14,14,https://demo.opencart.cn/index.php?route=product/special,437,0,0
+1775138484317,565,查看品牌列表,200,OK,Thread Group 1-6,text,true,,23837,214,14,14,https://demo.opencart.cn/index.php?route=product/manufacturer,526,0,0
+1775138484424,531,搜索商品,200,OK,Thread Group 1-16,text,true,,39716,219,13,13,https://demo.opencart.cn/index.php?route=product/search&search=mac,491,0,0
+1775138484730,266,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,13,13,https://demo.opencart.cn/index.php?route=product/manufacturer,266,0,0
+1775138484438,560,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,13,13,https://demo.opencart.cn/index.php?route=product/manufacturer,520,0,0
+1775138484663,353,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,13,13,https://demo.opencart.cn/index.php?route=account/register,276,0,0
+1775138484122,900,查看特价商品,200,OK,Thread Group 1-7,text,true,,29244,209,13,13,https://demo.opencart.cn/index.php?route=product/special,385,0,0
+1775138484997,40,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,292,13,13,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138484999,38,加入购物车,301,Moved Permanently,Thread Group 1-11,text,true,,442,292,13,13,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138485037,39,查看购物车,301,Moved Permanently,Thread Group 1-11,text,true,,436,177,13,13,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138485037,41,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,177,13,13,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138484438,643,搜索商品,200,OK,Thread Group 1-9,text,true,,39716,219,13,13,https://demo.opencart.cn/index.php?route=product/search&search=mac,459,0,0
+1775138484872,283,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,13,13,https://demo.opencart.cn/index.php?route=account/register,283,0,0
+1775138484302,907,查看品牌列表,200,OK,Thread Group 1-8,text,true,,23837,214,13,13,https://demo.opencart.cn/index.php?route=product/manufacturer,871,0,0
+1775138484876,364,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,12,12,https://demo.opencart.cn/index.php?route=product/manufacturer,327,0,0
+1775138485241,41,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,292,12,12,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138485282,44,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,177,12,12,http://demo.opencart.cn/index.php?route=product/manufacturer,44,0,0
+1775138483185,2149,搜索商品,200,OK,Thread Group 1-12,text,true,,39716,219,12,12,https://demo.opencart.cn/index.php?route=product/search&search=mac,1373,0,0
+1775138484956,458,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,12,12,https://demo.opencart.cn/index.php?route=account/register,458,0,0
+1775138485016,410,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,12,12,https://demo.opencart.cn/index.php?route=product/special,370,0,0
+1775138485156,362,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,12,12,https://demo.opencart.cn/index.php?route=product/special,321,0,0
+1775138485078,505,搜索商品,200,OK,Thread Group 1-19,text,true,,39716,219,12,12,https://demo.opencart.cn/index.php?route=product/search&search=mac,345,0,0
+1775138485076,538,搜索商品,200,OK,Thread Group 1-11,text,true,,39716,219,12,12,https://demo.opencart.cn/index.php?route=product/search&search=mac,427,0,0
+1775138485081,562,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,12,12,https://demo.opencart.cn/index.php?route=account/register,488,0,0
+1775138485427,228,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,12,12,https://demo.opencart.cn/index.php?route=product/manufacturer,226,0,0
+1775138485416,277,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,12,12,https://demo.opencart.cn/index.php?route=product/special,235,0,0
+1775138485655,44,加入购物车,301,Moved Permanently,Thread Group 1-20,text,true,,442,292,12,12,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138485699,40,查看购物车,301,Moved Permanently,Thread Group 1-20,text,true,,436,177,12,12,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138485519,223,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,12,12,https://demo.opencart.cn/index.php?route=product/manufacturer,221,0,0
+1775138485742,41,加入购物车,301,Moved Permanently,Thread Group 1-18,text,true,,442,292,12,12,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138485783,41,查看购物车,301,Moved Permanently,Thread Group 1-18,text,true,,436,177,12,12,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138485584,306,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,12,12,https://demo.opencart.cn/index.php?route=account/register,237,0,0
+1775138485616,298,注册新用户,200,OK,Thread Group 1-11,text,true,,27271,441,12,12,https://demo.opencart.cn/index.php?route=account/register,259,0,0
+1775138485334,623,注册新用户,200,OK,Thread Group 1-12,text,true,,27271,441,12,12,https://demo.opencart.cn/index.php?route=account/register,452,0,0
+1775138485694,272,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,12,12,https://demo.opencart.cn/index.php?route=product/manufacturer,231,0,0
+1775138485966,41,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,292,12,12,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,41,0,0
+1775138486007,40,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,177,12,12,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138484542,1541,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,12,12,https://demo.opencart.cn/index.php?route=product/manufacturer,1424,0,0
+1775138486084,42,加入购物车,301,Moved Permanently,Thread Group 1-14,text,true,,442,292,12,12,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138485914,240,查看特价商品,200,OK,Thread Group 1-11,text,true,,29244,209,12,12,https://demo.opencart.cn/index.php?route=product/special,202,0,0
+1775138485645,518,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,12,12,https://demo.opencart.cn/index.php?route=product/special,275,0,0
+1775138486127,41,查看购物车,301,Moved Permanently,Thread Group 1-14,text,true,,436,177,12,12,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138485890,317,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,12,12,https://demo.opencart.cn/index.php?route=product/special,278,0,0
+1775138485022,1199,查看品牌列表,200,OK,Thread Group 1-7,text,true,,23837,214,12,12,https://demo.opencart.cn/index.php?route=product/manufacturer,809,0,0
+1775138485326,907,搜索商品,200,OK,Thread Group 1-15,text,true,,39716,219,11,11,https://demo.opencart.cn/index.php?route=product/search&search=mac,795,0,0
+1775138485740,570,搜索商品,200,OK,Thread Group 1-20,text,true,,39716,219,11,11,https://demo.opencart.cn/index.php?route=product/search&search=mac,222,0,0
+1775138486155,169,查看品牌列表,200,OK,Thread Group 1-11,text,true,,23837,214,11,11,https://demo.opencart.cn/index.php?route=product/manufacturer,169,0,0
+1775138486047,329,搜索商品,200,OK,Thread Group 1-16,text,true,,39716,219,10,10,https://demo.opencart.cn/index.php?route=product/search&search=mac,246,0,0
+1775138484692,1700,注册新用户,200,OK,Thread Group 1-13,text,true,,27271,441,10,10,https://demo.opencart.cn/index.php?route=account/register,1371,0,0
+1775138485825,610,搜索商品,200,OK,Thread Group 1-18,text,true,,39716,219,10,10,https://demo.opencart.cn/index.php?route=product/search&search=mac,308,0,0
+1775138486163,337,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,10,10,https://demo.opencart.cn/index.php?route=product/manufacturer,298,0,0
+1775138486207,302,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,10,10,https://demo.opencart.cn/index.php?route=product/manufacturer,265,0,0
+1775138484591,1918,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,10,10,https://demo.opencart.cn/index.php?route=product/manufacturer,1539,0,0
+1775138486500,44,加入购物车,301,Moved Permanently,Thread Group 1-9,text,true,,442,292,10,10,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138486510,38,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,292,10,10,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,38,0,0
+1775138486509,44,加入购物车,301,Moved Permanently,Thread Group 1-19,text,true,,442,292,10,10,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,44,0,0
+1775138486545,41,查看购物车,301,Moved Permanently,Thread Group 1-9,text,true,,436,177,10,10,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138486548,40,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,177,10,10,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138486553,40,查看购物车,301,Moved Permanently,Thread Group 1-19,text,true,,436,177,10,10,http://demo.opencart.cn/index.php?route=product/manufacturer,40,0,0
+1775138486245,374,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,10,10,https://demo.opencart.cn/index.php?route=account/register,302,0,0
+1775138486311,310,注册新用户,200,OK,Thread Group 1-20,text,true,,27271,441,10,10,https://demo.opencart.cn/index.php?route=account/register,270,0,0
+1775138486376,260,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,10,10,https://demo.opencart.cn/index.php?route=account/register,260,0,0
+1775138485958,778,查看特价商品,200,OK,Thread Group 1-12,text,true,,29244,209,10,10,https://demo.opencart.cn/index.php?route=product/special,286,0,0
+1775138486435,350,注册新用户,200,OK,Thread Group 1-18,text,true,,27271,441,10,10,https://demo.opencart.cn/index.php?route=account/register,270,0,0
+1775138486619,428,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,10,10,https://demo.opencart.cn/index.php?route=product/special,389,0,0
+1775138486637,421,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,10,10,https://demo.opencart.cn/index.php?route=product/special,378,0,0
+1775138486621,439,查看特价商品,200,OK,Thread Group 1-20,text,true,,29244,209,10,10,https://demo.opencart.cn/index.php?route=product/special,395,0,0
+1775138486593,504,搜索商品,200,OK,Thread Group 1-19,text,true,,39716,219,10,10,https://demo.opencart.cn/index.php?route=product/search&search=mac,430,0,0
+1775138486786,370,查看特价商品,200,OK,Thread Group 1-18,text,true,,29244,209,10,10,https://demo.opencart.cn/index.php?route=product/special,289,0,0
+1775138486586,589,搜索商品,200,OK,Thread Group 1-9,text,true,,39716,219,10,10,https://demo.opencart.cn/index.php?route=product/search&search=mac,477,0,0
+1775138486737,458,查看品牌列表,200,OK,Thread Group 1-12,text,true,,23837,214,10,10,https://demo.opencart.cn/index.php?route=product/manufacturer,416,0,0
+1775138486393,830,查看特价商品,200,OK,Thread Group 1-13,text,true,,29244,209,9,9,https://demo.opencart.cn/index.php?route=product/special,468,0,0
+1775138487048,247,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,9,9,https://demo.opencart.cn/index.php?route=product/manufacturer,246,0,0
+1775138487061,246,查看品牌列表,200,OK,Thread Group 1-20,text,true,,23837,214,9,9,https://demo.opencart.cn/index.php?route=product/manufacturer,244,0,0
+1775138487058,254,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,8,8,https://demo.opencart.cn/index.php?route=product/manufacturer,214,0,0
+1775138487295,42,加入购物车,301,Moved Permanently,Thread Group 1-15,text,true,,442,292,8,8,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,42,0,0
+1775138487312,40,加入购物车,301,Moved Permanently,Thread Group 1-16,text,true,,442,292,8,8,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,40,0,0
+1775138487337,42,查看购物车,301,Moved Permanently,Thread Group 1-15,text,true,,436,177,8,8,http://demo.opencart.cn/index.php?route=product/manufacturer,42,0,0
+1775138487352,39,查看购物车,301,Moved Permanently,Thread Group 1-16,text,true,,436,177,8,8,http://demo.opencart.cn/index.php?route=product/manufacturer,39,0,0
+1775138486588,813,搜索商品,200,OK,Thread Group 1-17,text,true,,39716,219,8,8,https://demo.opencart.cn/index.php?route=product/search&search=mac,460,0,0
+1775138487098,314,注册新用户,200,OK,Thread Group 1-19,text,true,,27271,441,8,8,https://demo.opencart.cn/index.php?route=account/register,277,0,0
+1775138487176,304,注册新用户,200,OK,Thread Group 1-9,text,true,,27271,441,8,8,https://demo.opencart.cn/index.php?route=account/register,266,0,0
+1775138487157,325,查看品牌列表,200,OK,Thread Group 1-18,text,true,,23837,214,8,8,https://demo.opencart.cn/index.php?route=product/manufacturer,285,0,0
+1775138487412,304,查看特价商品,200,OK,Thread Group 1-19,text,true,,29244,209,7,7,https://demo.opencart.cn/index.php?route=product/special,268,0,0
+1775138487391,330,搜索商品,200,OK,Thread Group 1-16,text,true,,39716,219,7,7,https://demo.opencart.cn/index.php?route=product/search&search=mac,250,0,0
+1775138487481,347,查看特价商品,200,OK,Thread Group 1-9,text,true,,29244,209,7,7,https://demo.opencart.cn/index.php?route=product/special,232,0,0
+1775138487717,158,查看品牌列表,200,OK,Thread Group 1-19,text,true,,23837,214,7,7,https://demo.opencart.cn/index.php?route=product/manufacturer,156,0,0
+1775138487722,177,注册新用户,200,OK,Thread Group 1-16,text,true,,27271,441,6,6,https://demo.opencart.cn/index.php?route=account/register,136,0,0
+1775138486168,1765,搜索商品,200,OK,Thread Group 1-14,text,true,,39716,219,6,6,https://demo.opencart.cn/index.php?route=product/search&search=mac,868,0,0
+1775138487223,781,查看品牌列表,200,OK,Thread Group 1-13,text,true,,23837,214,6,6,https://demo.opencart.cn/index.php?route=product/manufacturer,668,0,0
+1775138487379,627,搜索商品,200,OK,Thread Group 1-15,text,true,,39716,219,5,5,https://demo.opencart.cn/index.php?route=product/search&search=mac,281,0,0
+1775138487829,180,查看品牌列表,200,OK,Thread Group 1-9,text,true,,23837,214,5,5,https://demo.opencart.cn/index.php?route=product/manufacturer,140,0,0
+1775138487899,168,查看特价商品,200,OK,Thread Group 1-16,text,true,,29244,209,4,4,https://demo.opencart.cn/index.php?route=product/special,127,0,0
+1775138488068,151,查看品牌列表,200,OK,Thread Group 1-16,text,true,,23837,214,4,4,https://demo.opencart.cn/index.php?route=product/manufacturer,109,0,0
+1775138487402,836,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,3,3,https://demo.opencart.cn/index.php?route=account/register,393,0,0
+1775138488239,333,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,3,3,https://demo.opencart.cn/index.php?route=product/special,182,0,0
+1775138488006,574,注册新用户,200,OK,Thread Group 1-15,text,true,,27271,441,3,3,https://demo.opencart.cn/index.php?route=account/register,157,0,0
+1775138487934,780,注册新用户,200,OK,Thread Group 1-14,text,true,,27271,441,3,3,https://demo.opencart.cn/index.php?route=account/register,213,0,0
+1775138488572,555,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,3,3,https://demo.opencart.cn/index.php?route=product/manufacturer,441,0,0
+1775138489127,39,加入购物车,301,Moved Permanently,Thread Group 1-17,text,true,,442,292,3,3,http://demo.opencart.cn/Path:%20/index.php?route=checkout/cart/add,39,0,0
+1775138489166,41,查看购物车,301,Moved Permanently,Thread Group 1-17,text,true,,436,177,3,3,http://demo.opencart.cn/index.php?route=product/manufacturer,41,0,0
+1775138488735,755,查看特价商品,200,OK,Thread Group 1-14,text,true,,29244,209,3,3,https://demo.opencart.cn/index.php?route=product/special,677,0,0
+1775138488581,925,查看特价商品,200,OK,Thread Group 1-15,text,true,,29244,209,3,3,https://demo.opencart.cn/index.php?route=product/special,659,0,0
+1775138489207,391,搜索商品,200,OK,Thread Group 1-17,text,true,,39716,219,3,3,https://demo.opencart.cn/index.php?route=product/search&search=mac,231,0,0
+1775138489491,237,查看品牌列表,200,OK,Thread Group 1-14,text,true,,23837,214,3,3,https://demo.opencart.cn/index.php?route=product/manufacturer,198,0,0
+1775138489598,226,注册新用户,200,OK,Thread Group 1-17,text,true,,27271,441,2,2,https://demo.opencart.cn/index.php?route=account/register,151,0,0
+1775138489507,350,查看品牌列表,200,OK,Thread Group 1-15,text,true,,23837,214,2,2,https://demo.opencart.cn/index.php?route=product/manufacturer,313,0,0
+1775138489834,181,查看特价商品,200,OK,Thread Group 1-17,text,true,,29244,209,1,1,https://demo.opencart.cn/index.php?route=product/special,144,0,0
+1775138490016,142,查看品牌列表,200,OK,Thread Group 1-17,text,true,,23837,214,1,1,https://demo.opencart.cn/index.php?route=product/manufacturer,140,0,0
