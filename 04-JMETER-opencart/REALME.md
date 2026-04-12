@@ -81,10 +81,10 @@
 
 04-JMETER-opencart/
 ├── test_plan.jmx
-├── result_10.jtl
-├── result_50.jtl
-├── result_100.jtl
-├── report/
+├── result_20.csv
+├── result_50.csv
+├── result_100.csv
+├── index.html
 ├── README.md
 
 ---
